@@ -4,6 +4,14 @@ html {
   width: 100% !important;
 }
 
+.logo {
+  font-family: "Merriweather", serif;
+}
+
+.jumbotron-title {
+  font-family: "Merriweather", serif;
+}
+
 .jumbotron-image {
   width: 80% !important;
   border-radius: 90%;
